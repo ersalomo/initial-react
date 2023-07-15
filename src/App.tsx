@@ -10,7 +10,7 @@ export default function App() {
 
   return (
     <main className="bg-blue-900">
-      <Input />
+      <Input name="Ersalomo" grade="90" />
     </main>
   );
 }
